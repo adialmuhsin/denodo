@@ -62,10 +62,12 @@ Organization can:
     - We have 1000+ customers across a variety of industries (Wrong)
     - We provide companies with agile, efficient and scalable data management solutions to help them make more informed decisions (Correct)
 2. You are chatting to someone who works in IT. They ask, "What is the technology that Denodo is based on and who are your competitors?" What might be an answer?
+    - Data Virtualization, Tibco (Correct)
 3. You find the CEO of a large bank standing next to you at a marketing event. When the CEO asks you "what Denodo does?", what might be your best answer?
     - Denodo is a leading vendor in data management and integration (Wrong)
     - Denodo helps business users to immediately and easily access the data they need without worrying about where it is housed, how it is formatted, or how quickly it changes. (Correct)
 4. You are speaking with Sales Manager, who uses reports to make decisions about the sales regions needing more help to reach their goals. How might you best describe to this business user, what Denodo does?
+    - Denodo helps business users to immediately and easily access data they need (Correct)
 5. Denodo advocates a logical approach to data integration. What is meant by a "logical approach"?
     - Integrating data by connecting directly to each source (Wrong)
     - Logically connecting to the data source and not moving the data physically (Correct)
